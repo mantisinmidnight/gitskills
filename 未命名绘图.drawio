@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第 1 页" id="yI1Kvu23MIjI5fnafOQH">
-    <mxGraphModel dx="1026" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wpR1VLLlO4Dwa5QESq0E-2" value="Doris数据" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="440" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="455" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wpR1VLLlO4Dwa5QESq0E-3" value="adcenter任务服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="250" width="110" height="60" as="geometry" />
@@ -60,6 +60,15 @@
         <mxCell id="wpR1VLLlO4Dwa5QESq0E-21" value="手动配置看板" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wpR1VLLlO4Dwa5QESq0E-20" vertex="1" connectable="0">
           <mxGeometry x="-0.2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="skFV6jzqiymg1l3Q89ML-1" value="adCoreData服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="250" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skFV6jzqiymg1l3Q89ML-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="494.71" y="200" as="sourcePoint" />
+            <mxPoint x="494.71" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
